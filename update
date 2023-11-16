@@ -1,5 +1,5 @@
 {
-  "Visibility": "VISIBLE",
+  "Visibility": "hide",
   "Title": "Test",
   "Description": "Test Message",
   "MainTextButton": "Update",
